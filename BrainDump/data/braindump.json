@@ -1,0 +1,117 @@
+{
+  "version": "1.0.0",
+  "entries": [
+    {
+      "id": "11111111-0000-0000-0000-000000000001",
+      "text": "Need to buy milk tomorrow",
+      "deadline": "2026-08-16T00:00:00",
+      "created_at": "2026-08-15T09:00:00",
+      "completed": false,
+      "completed_at": null,
+      "category": "Shopping",
+      "priority": "Medium",
+      "tags": []
+    },
+    {
+      "id": "22222222-0000-0000-0000-000000000002",
+      "text": "Fix the login bug by Friday",
+      "deadline": "2026-08-21T23:59:00",
+      "created_at": "2026-08-15T09:05:00",
+      "completed": false,
+      "completed_at": null,
+      "category": "Coding",
+      "priority": "High",
+      "tags": [
+        "work",
+        "urgent"
+      ]
+    },
+    {
+      "id": "33333333-0000-0000-0000-000000000003",
+      "text": "Submit assignment on 25 August at 5 PM",
+      "deadline": "2026-08-25T17:00:00",
+      "created_at": "2026-08-15T09:10:00",
+      "completed": false,
+      "completed_at": null,
+      "category": "Study",
+      "priority": "High",
+      "tags": [
+        "university"
+      ]
+    },
+    {
+      "id": "44444444-0000-0000-0000-000000000004",
+      "text": "Schedule annual health checkup",
+      "deadline": null,
+      "created_at": "2026-08-15T09:15:00",
+      "completed": false,
+      "completed_at": null,
+      "category": "Health",
+      "priority": "Medium",
+      "tags": []
+    },
+    {
+      "id": "55555555-0000-0000-0000-000000000005",
+      "text": "Pay credit card bill before end of month",
+      "deadline": "2026-08-31T23:59:00",
+      "created_at": "2026-08-15T09:20:00",
+      "completed": false,
+      "completed_at": null,
+      "category": "Finance",
+      "priority": "High",
+      "tags": [
+        "bills"
+      ]
+    },
+    {
+      "id": "66666666-0000-0000-0000-000000000006",
+      "text": "Read chapter 5 of Clean Code",
+      "deadline": null,
+      "created_at": "2026-08-15T09:25:00",
+      "completed": true,
+      "completed_at": "2026-08-15T11:00:00",
+      "category": "Study",
+      "priority": "Low",
+      "tags": [
+        "reading"
+      ]
+    },
+    {
+      "id": "77777777-0000-0000-0000-000000000007",
+      "text": "Team standup meeting every Monday at 10 AM",
+      "deadline": "2026-08-17T10:00:00",
+      "created_at": "2026-08-15T09:30:00",
+      "completed": false,
+      "completed_at": null,
+      "category": "Work",
+      "priority": "Medium",
+      "tags": [
+        "meeting",
+        "recurring"
+      ]
+    },
+    {
+      "id": "90fb62a3-cb7c-4a81-9627-a52e6d0655a4",
+      "text": "Buy milk tomorrow",
+      "deadline": "2026-08-16T00:00:00",
+      "created_at": "2026-08-15T10:57:07",
+      "completed": false,
+      "completed_at": null,
+      "category": "Shopping",
+      "priority": "Medium",
+      "tags": []
+    },
+    {
+      "id": "274dd508-7a34-48d2-ba6c-82520886f916",
+      "text": "Fix the login bug by Friday",
+      "deadline": "2026-08-21T00:00:00",
+      "created_at": "2026-08-15T10:58:01",
+      "completed": false,
+      "completed_at": null,
+      "category": "Coding",
+      "priority": "Medium",
+      "tags": []
+    }
+  ],
+  "undo_stack": []
+}

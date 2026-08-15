@@ -1,0 +1,20 @@
+# BrainDump – Python dependencies
+# Install with: pip install -r requirements.txt
+
+# --- Core runtime ---
+typer[all]==0.12.3          # CLI framework (includes rich + shellingham)
+rich==13.7.1                # Beautiful terminal output
+dateparser==1.2.0           # Natural-language date parsing
+pydantic==2.7.4             # Data validation & serialisation
+
+# --- Desktop GUI ---
+PySide6>=6.7.0              # Qt6 Python bindings (GUI front-end)
+
+# --- Testing ---
+pytest==8.2.2               # Test runner
+pytest-cov==5.0.0           # Coverage reporting
+pytest-mock==3.14.0         # Mock utilities
+
+# --- Optional dev tooling ---
+ruff==0.4.9                 # Linter + formatter (replaces flake8/black/isort)
+mypy==1.10.0                # Static type checker
